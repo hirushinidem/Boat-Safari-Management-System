@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Addcontainer{
+
+   background-image: url("../images/boat02.jpg");
+   background-size:cover;
+   background-position: center;
+   height: 100vh;
+   
+ 
+}
+
+.containerForm{
+  position: relative;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.Lcolor{
+   font-size: large;
+   font-weight:bold ;
+}
+.topic{
+    font-size: larger;
+    font: 200;
+}
+tbody tr {
+    font-size: 110%;
+    font-weight: bold;
+}
+nav{
+    padding-bottom: 10%;
+}
+h3{
+    text-align: center;
+}
+nav{
+    background-color: #74b9e0;
+    border-color: #E7E7E7;
+}
+form{
+    background-color: white;
+    padding: 15px 60px;
+    border-radius: 10px;
+    justify-content: center;
+    margin-left: auto;
+}
+h3{
+    text-align:center;
+    text-size-adjust: 12px;
+}
+
+input{
+    width: fit-content;
+}
+.addDriver{
+    background-color: #3e9ab1;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+

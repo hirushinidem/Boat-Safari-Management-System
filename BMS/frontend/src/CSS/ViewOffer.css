@@ -1,0 +1,78 @@
+.background-image{
+    background-image: url(../src/images/sea.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    
+
+}
+
+
+
+th {
+    padding-top: 100px;
+    padding: 25px;
+    background-color:#000000;
+
+}
+/* 
+td{
+    padding-top: 100px;
+    padding: 25px;
+    background-color:#e0d7d7;
+}
+*/
+
+#btn{
+    background-color:rgba(0, 234, 255);
+    border-color: aliceblue;
+    
+} 
+#btn:hover {background-color: #b8fcfc}
+
+
+.table th td{
+    width : 80;
+    margin: auto;
+    border: 2px rgb(207, 244, 0);
+    text-align: center;
+    font-size: 30px;
+    table-layout: fixed;
+}
+
+.kk
+{
+    margin-top: 30px;
+    backdrop-filter: blur(10px);
+    margin-left: 240px;
+    margin-right: 240px;
+   
+}
+
+.tt{
+    color: rgb(252, 252, 252);
+    
+}
+
+.hh
+{
+    color: rgb(205, 255, 4);
+    width : 80;
+    margin-top: 30px;
+    table-layout: fixed;
+    text-align: left;
+    font-weight: bolder;
+    
+}
+
+.bb
+{
+    text-rendering: auto;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+    text-shadow: 10px;
+}
+    
