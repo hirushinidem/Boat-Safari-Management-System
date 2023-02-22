@@ -1,0 +1,14 @@
+.pay{
+    background-image:url(../images/333806.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: fill;
+}
+
+#payForm{
+    background-color: rgb(238, 192, 113);
+    opacity: 0.90;
+    border-radius: 1%;
+    padding: 20px;
+}

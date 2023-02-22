@@ -1,0 +1,29 @@
+th {
+    background-color:#e69955;
+}
+
+td{
+    background-color:#ccae79;
+}
+
+#btn{
+    background-color:#d39d4d;
+}
+
+.bd{
+    background-image:url(../images/929286.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+
+#MainTable {
+    width: 85%;
+    background-color: #d5ead7;
+    border: 1px;
+    min-width: 85%;
+    position: relative;
+    opacity: 0.85;
+    background: transparent;
+}

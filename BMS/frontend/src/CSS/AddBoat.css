@@ -1,0 +1,14 @@
+.bd{
+    background-image:url(../images/929286.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+
+#fbd{
+    background-color: rgb(238, 192, 113);
+    opacity: 0.80;
+    border-radius: 1%;
+    padding: 20px;
+}
